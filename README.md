@@ -1,3 +1,4 @@
+![maxresdefault](https://github.com/kartik-pisudde/Seoul-Bike-Sharing-Demand-Prediction/assets/117140067/e2815197-ad18-4636-89ee-e9b04e9b6d4b)
 # Seoul-Bike-Sharing-Demand-Prediction
 The goal of this project is to combine the historical bike usage patterns with the weather data to forecast bike rental demand. The data set consists of hourly rental data spanning two years.
 Exploratory Data Analysis is done on the dataset and compare the target variable with the other variables to find the distribution of graph. We look for null values which were not found and outliers and appropriately modify them by z-score. We also perform correlation analysis to extract out the important and relevant feature from dataset and later perform train test split to train the model.
